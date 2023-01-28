@@ -1,0 +1,15 @@
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.csproj.AssemblyReference.cache
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.AssemblyInfoInputs.cache
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.AssemblyInfo.cs
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.csproj.CoreCompileInputs.cache
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/bin/Debug/net6.0/LESSON07
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/bin/Debug/net6.0/LESSON07.deps.json
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/bin/Debug/net6.0/LESSON07.runtimeconfig.json
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/bin/Debug/net6.0/LESSON07.dll
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/bin/Debug/net6.0/ref/LESSON07.dll
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/bin/Debug/net6.0/LESSON07.pdb
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.dll
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/ref/LESSON07.dll
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.pdb
+/home/vladimir/GB/Java/OOP/DZ/LESSON07/obj/Debug/net6.0/LESSON07.genruntimeconfig.cache
